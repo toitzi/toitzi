@@ -1,8 +1,7 @@
-[![Header](https://raw.githubusercontent.com/toitzi/toitzi/main/header.png "Header")](https://oitzinger.wien/)
 ## Hi there 👋
 
-My name is Tobias and I'm a software / web developer. I'm from Austria, living in Vienna and currently working at 
-[Intervalid](https://intervalid.com/). You can find me on Twitter [@toitzi](https://twitter.com/toitzi) or on Xing as [@Tobias Oitzinger](https://www.xing.com/profile/Tobias_Oitzinger).
+My name is Tobias and I'm a software / web developer. I'm from Austria, living in Vienna. 
+You can find me on Twitter [@toitzi](https://twitter.com/toitzi) or on Xing as [@Tobias Oitzinger](https://www.xing.com/profile/Tobias_Oitzinger).
 
 ### :toolbox: Technologies and tools
 
