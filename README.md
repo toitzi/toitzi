@@ -20,10 +20,9 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vienna (Austria).
+I am a Full Stack Developer from Vienna (Austria).
 
-- 🦄 Half-unicorn, half-developer, entirely fueled by memes and caffeine.
-- 🕶️ On a quest to find the perfect ratio of coffee to code. Currently at 1:100.
+- 🦄 Half-unicorn, half-developer, entirely fueled by memes and tea.
 - 🚀 Launching side projects faster than NASA's space missions
 - 🍕 Professional bug generator... but also, an expert debugger. Balance is key.
 
