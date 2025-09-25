@@ -2,6 +2,9 @@
   <a href="https://toitzi.dev">
     <img src="https://img.shields.io/badge/Website-white?style=for-the-badge" alt="Website Badge"/>
   </a>
+  <a href="https://x.com/toitzi/">
+    <img src="https://img.shields.io/badge/X_(Twitter)-black?style=for-the-badge&logo=x&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/toitzi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
